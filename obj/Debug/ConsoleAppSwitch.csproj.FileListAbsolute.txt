@@ -1,0 +1,8 @@
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.exe.config
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.exe
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\bin\Debug\ConsoleAppSwitch.pdb
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.csproj.AssemblyReference.cache
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.csproj.SuggestedBindingRedirects.cache
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.csproj.CoreCompileInputs.cache
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.exe
+C:\data\ConsoleAppSwitch\ConsoleAppSwitch\obj\Debug\ConsoleAppSwitch.pdb
